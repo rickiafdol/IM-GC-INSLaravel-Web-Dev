@@ -1,5 +1,0 @@
-Data Peserta GC-INS Bootcamp Laravel Web Dev
-1. Nama: Ricki Afdol
-2. Email: rickiafdol394@gmail.com
-3. Akun Gitlab:rickiafdol
-4. Akun Telegram: @Rickiafdol
